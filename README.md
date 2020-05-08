@@ -6,7 +6,8 @@ My solutions for some Leetcode questions
 - Merge Two Sorted Lists	
 - Number of Islands	
 - Palindrome Number	
-- Reverse Integer	
+- Reverse Integer
+- Fizz Buzz
 
 ## Python implementations
 - Add Two Numbers	
