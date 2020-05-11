@@ -16,3 +16,4 @@ My solutions for some Leetcode questions
 - Roman To Integer
 - Two Sum
 - Single Number
+- Contains Duplicate
