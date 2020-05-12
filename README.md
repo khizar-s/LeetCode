@@ -8,6 +8,7 @@ My solutions for some Leetcode questions
 - Palindrome Number	
 - Reverse Integer
 - Fizz Buzz
+- Valid Parentheses
 
 ## Python implementations
 - Add Two Numbers	
