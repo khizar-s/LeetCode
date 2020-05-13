@@ -18,3 +18,4 @@ My solutions for some Leetcode questions
 - Two Sum
 - Single Number
 - Contains Duplicate
+- Power of Two
