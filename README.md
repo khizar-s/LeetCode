@@ -9,6 +9,7 @@ My solutions for some Leetcode questions
 - Reverse Integer
 - Fizz Buzz
 - Valid Parentheses
+- Best Time To Buy And Sell-Stock
 
 ## Python implementations
 - Add Two Numbers	
