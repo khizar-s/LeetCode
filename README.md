@@ -10,6 +10,7 @@ My solutions for some Leetcode questions
 - Fizz Buzz
 - Valid Parentheses
 - Best Time To Buy And Sell-Stock
+- First Unique Character In A String
 
 ## Python implementations
 - Add Two Numbers	
