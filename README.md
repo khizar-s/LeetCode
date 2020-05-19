@@ -21,3 +21,4 @@ My solutions for some Leetcode questions
 - Single Number
 - Contains Duplicate
 - Power of Two
+- Valid Anagram
