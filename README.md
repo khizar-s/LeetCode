@@ -11,6 +11,7 @@ My solutions for some Leetcode questions
 - Valid Parentheses
 - Best Time To Buy And Sell-Stock
 - First Unique Character In A String
+- Reverse String
 
 ## Python implementations
 - Add Two Numbers	
