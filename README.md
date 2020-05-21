@@ -12,6 +12,7 @@ My solutions for some Leetcode questions
 - Best Time To Buy And Sell-Stock
 - First Unique Character In A String
 - Reverse String
+- Move Zeroes
 
 ## Python implementations
 - Add Two Numbers	
