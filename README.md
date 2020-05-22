@@ -13,6 +13,7 @@ My solutions for some Leetcode questions
 - First Unique Character In A String
 - Reverse String
 - Move Zeroes
+- Backspace String Compare
 
 ## Python implementations
 - Add Two Numbers	
@@ -24,3 +25,4 @@ My solutions for some Leetcode questions
 - Contains Duplicate
 - Power of Two
 - Valid Anagram
+- Find Peak Element
