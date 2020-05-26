@@ -14,6 +14,7 @@ My solutions for some Leetcode questions
 - Reverse String
 - Move Zeroes
 - Backspace String Compare
+- Plus One
 
 ## Python implementations
 - Add Two Numbers	
