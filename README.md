@@ -19,7 +19,7 @@ My solutions for some Leetcode questions
 ## Python implementations
 - Add Two Numbers	
 - Defanging an ip address
-- Longest Substring-Without-Repeating-Characters	
+- Longest Substring Without Repeating Characters	
 - Roman To Integer
 - Two Sum
 - Single Number
