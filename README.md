@@ -27,3 +27,4 @@ My solutions for some Leetcode questions
 - Power of Two
 - Valid Anagram
 - Find Peak Element
+- First Bad Version
