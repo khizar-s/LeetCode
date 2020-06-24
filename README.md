@@ -16,6 +16,7 @@ My solutions for some Leetcode questions
 - Backspace String Compare
 - Plus One
 - Convert Sorted Array to Binary Search Tree
+- Missing Number
 
 ## Python implementations
 - Add Two Numbers	
