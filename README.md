@@ -9,7 +9,7 @@ My solutions for some Leetcode questions
 - Reverse Integer
 - Fizz Buzz
 - Valid Parentheses
-- Best Time To Buy And Sell-Stock
+- Best Time To Buy And Sell Stock
 - First Unique Character In A String
 - Reverse String
 - Move Zeroes
