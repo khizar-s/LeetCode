@@ -18,6 +18,7 @@ My solutions for some Leetcode questions
 - Convert Sorted Array to Binary Search Tree
 - Missing Number
 - Best Time To Buy And Sell Stock 2
+- Path Sum
 
 ## Python implementations
 - Add Two Numbers	
