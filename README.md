@@ -34,3 +34,4 @@ My solutions for some Leetcode questions
 - Robot Return To Origin
 - Find the Difference
 - Intersection of Two Arrays
+- Majority Element
