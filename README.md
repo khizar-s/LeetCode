@@ -19,6 +19,7 @@ My solutions for some Leetcode questions
 - Missing Number
 - Best Time To Buy And Sell Stock 2
 - Path Sum
+- Remove Element
 
 ## Python implementations
 - Add Two Numbers	
