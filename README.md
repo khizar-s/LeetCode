@@ -21,6 +21,7 @@ My solutions for some Leetcode questions
 - Path Sum
 - Remove Element
 - Climbing Stairs
+- Letter Combinations of a Phone Number
 
 ## Python implementations
 - Add Two Numbers	
