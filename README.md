@@ -40,3 +40,4 @@ My solutions for some Leetcode questions
 - Find the Difference
 - Intersection of Two Arrays
 - Majority Element
+- Jewels and Stones
