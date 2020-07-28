@@ -30,6 +30,7 @@ My solutions for some Leetcode questions
 - Binary Tree Postorder Traversal
 - Flipping an Image
 - kth Largest Element in an Array
+- Fruit into Baskets
 
 ## Python implementations
 - Add Two Numbers	
