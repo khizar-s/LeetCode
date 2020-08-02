@@ -32,6 +32,7 @@ My solutions for some Leetcode questions
 - kth Largest Element in an Array
 - Fruit into Baskets
 - Flood Fill
+- Reverse Linked List
 
 ## Python implementations
 - Add Two Numbers	
