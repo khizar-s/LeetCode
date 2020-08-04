@@ -33,6 +33,7 @@ My solutions for some Leetcode questions
 - Fruit into Baskets
 - Flood Fill
 - Reverse Linked List
+- Decode Ways
 
 ## Python implementations
 - Add Two Numbers	
