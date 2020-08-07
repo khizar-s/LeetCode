@@ -35,6 +35,7 @@ My solutions for some Leetcode questions
 - Reverse Linked List
 - Decode Ways
 - Binary Tree Level Order Traversal
+- K Closest Points To Origin
 
 ## Python implementations
 - Add Two Numbers	
