@@ -36,6 +36,7 @@ My solutions for some Leetcode questions
 - Decode Ways
 - Binary Tree Level Order Traversal
 - K Closest Points To Origin
+- Max Area of Island
 
 ## Python implementations
 - Add Two Numbers	
