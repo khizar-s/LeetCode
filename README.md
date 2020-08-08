@@ -37,6 +37,7 @@ My solutions for some Leetcode questions
 - Binary Tree Level Order Traversal
 - K Closest Points To Origin
 - Max Area of Island
+- Sort Characters by Frequency
 
 ## Python implementations
 - Add Two Numbers	
