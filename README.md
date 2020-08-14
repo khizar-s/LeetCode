@@ -38,6 +38,7 @@ My solutions for some Leetcode questions
 - K Closest Points To Origin
 - Max Area of Island
 - Sort Characters by Frequency
+- Frog Jump
 
 ## Python implementations
 - Add Two Numbers	
