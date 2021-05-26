@@ -1,40 +1,43 @@
-import java.util.Stack;
-
 class Solution {
-    public boolean backspaceCompare(String S, String T) {
-        Stack<Character> sStack = new Stack<Character>();
-        Stack<Character> tStack = new Stack<Character>();
+    public boolean backspaceCompare(String s, String t) {
+        int l1 = s.length() -1;
+        int l2 = t.length() -1;
         
-        for (char c: S.toCharArray()) {
-            if (c != '#') {
-                sStack.push(c);
-            } else if (!sStack.isEmpty()) {
-                sStack.pop();
+        while (l1 >= 0 || l2 >= 0) {
+            int countS = 0;
+            int countT = 0;
+            
+            while (l1 >= 0 && (countS > 0 || s.charAt(l1) == '#')) {
+                if (s.charAt(l1) == '#') {
+                    countS++;
+                } else {
+                    countS--;
+                }
+                l1--;
+            }
+            
+            while (l2 >= 0 && (countT > 0 || t.charAt(l2) == '#')) {
+                if (t.charAt(l2) == '#') {
+                    countT++;
+                } else {
+                    countT--;
+                }
+                l2--;
+            }
+            
+            if (l1 >= 0 && l2 >= 0) {
+                if (s.charAt(l1) != t.charAt(l2)) {
+                    return false;
+                } else {
+                    l1--;
+                    l2--;
+                }
+            } else {
+                if (l1 >= 0 || l2 >= 0) {
+                    return false;
+                }
             }
         }
-        
-        for (char c: T.toCharArray()) {
-            if (c != '#') {
-                tStack.push(c);
-            } else if (!tStack.isEmpty()) {
-                tStack.pop();
-            }
-        }
-        
-        if (sStack.size() != tStack.size()) {
-            return false;
-        }
-        
-        int l = sStack.size();
-        
-        for (int i = 0; i < l; i++) {
-            char s = sStack.pop();
-            char t = tStack.pop();
-            if (s != t) {
-                return false;
-            }
-        }
-        
-        return true;                   
+        return true;
     }
 }
